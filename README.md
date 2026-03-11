@@ -3,7 +3,7 @@
 
 Beginner web developer from Poland interested in web development, UI design and learning new technologies.
 
-Currently working on a hobby project — a website for a music artist, built mainly with HTML and basic web technologies. I also design layouts and concepts for websites using Figma.
+Currently working on a hobby project, a website for a music artist, built mainly with HTML and basic web technologies. I also design layouts and concepts for websites using Figma.
 
 At the moment I'm expanding my programming skills by learning Python and Java, while continuing to improve my knowledge of frontend development and website optimization.
 
