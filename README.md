@@ -42,8 +42,15 @@ Small projects created to practice layout structure, responsive design and basic
 * Interested in web development and UI design
 * Learning programming step by step
 * Building small projects to improve my skills
+
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GumisFW&show_icons=true)
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GumisFW&layout=compact)
+
+
 ## Live Projects
 - Music artist website (in progress)
 
